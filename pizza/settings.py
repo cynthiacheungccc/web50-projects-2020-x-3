@@ -129,4 +129,4 @@ INDEX_SHELF_IMAGE_PATH = 'index_shelf_images'
 
 
 # Mail Host
-EMAIL_HOST = "mail.emea.nsn-intra.net"
+EMAIL_HOST = ""
