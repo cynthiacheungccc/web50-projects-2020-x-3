@@ -1,0 +1,10 @@
+{% extends "orders/base.html" %}
+{% block content %}
+<div class="contact-content bg-light">
+    <h1 class="display-4">{{object.title}}</h1>
+    <p class="lead">{{object.address}}</p>
+    <hr class="my-4">
+    <p>Our phone numbers are {{object.phone}}</p>
+    <p>If you have any questions or comments or would like to get on our email list you can email us at <a href="mailto:{{object.email}}">{{object.email}}</p>
+</div>
+{% endblock %}

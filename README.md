@@ -1,1 +1,3 @@
-# web50-projects-2020-x-3
+# Project 3
+
+Web Programming with Python and JavaScript
